@@ -1,0 +1,33 @@
+#game span {
+    font-weight: bold;
+}
+
+.life {
+    height: 40%;
+    width:  40%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+} 
+
+.cell {
+	border: 1px solid black ;
+	height: 20px;
+	width: 20px;
+	float: left;
+}
+
+.clear {
+	clear: both;
+}
+
+.live {
+	background-color: black;
+}
+
+.dead {
+}
+
+
+#rules {
+	margin-top: 50px;
+}
